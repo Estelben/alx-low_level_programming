@@ -2,7 +2,8 @@
 
 /**
  * print_line -straight -line
- * @n: number of times
+ * @n:Number of times
+ * Return:Always 0
  */
 
 void print_line(int n)
