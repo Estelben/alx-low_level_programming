@@ -19,7 +19,7 @@ full = length / 2;
 while (full--)
 {
 temp = s[length - m - 1];
-s[length - m - 1] = s[m];
+s[length - z - 1] = s[m];
 s[m] = temp;
 m++;
 }
