@@ -13,7 +13,7 @@ int tmp = 0;
 int m;
 while (s[tmp] != '\0') tmp++;
 for (m = 0; m < tmp; m++)
-{
+{	
 tmp--;
 rev = s[m];
 s[m] = s[tmp];
